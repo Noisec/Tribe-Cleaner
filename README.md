@@ -1,5 +1,6 @@
 # Tribe-Cleaner
 A RAM cleaner with temp and empty folder cleaner
+>+It adds itself to startup after run
 
 ![alt text](https://cdn.discordapp.com/attachments/1051113640733966407/1051114102384250991/image1.png)
 
