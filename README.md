@@ -2,8 +2,8 @@
 A RAM cleaner with temp and empty folder cleaner
 >+It adds itself to startup after run
 
-![alt text](https://cdn.discordapp.com/attachments/1051113640733966407/1051114102384250991/image1.png)
+![alt text](https://github.com/Noisec/pic-s/blob/main/images/tribem.png?raw=true)
 
-![alt text](https://cdn.discordapp.com/attachments/1051113640733966407/1051114051318591579/image.png)
+![alt text](https://github.com/Noisec/pic-s/blob/main/images/tribes.png?raw=true)
 
-![alt text](https://cdn.discordapp.com/attachments/1051113640733966407/1051114315924656158/image.png)
+![alt text](https://github.com/Noisec/pic-s/blob/main/images/tribesa.png?raw=true)
